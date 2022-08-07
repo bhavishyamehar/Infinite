@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650380900373",
+    "project_id": "infinite-ff5c3",
+    "storage_bucket": "infinite-ff5c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650380900373:android:677293f50eb7387207361c",
+        "android_client_info": {
+          "package_name": "com.amanjoshi.infinite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650380900373-letnq4n7s8po6qqg98q7umauqcq2eohr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5B28V-yzEmVUw0Qb4LnRwOjHPmAPMZB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650380900373-letnq4n7s8po6qqg98q7umauqcq2eohr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
